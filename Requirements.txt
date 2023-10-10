@@ -1,5 +1,2 @@
 discord_webhook
 os
-discord
-base64
-string
