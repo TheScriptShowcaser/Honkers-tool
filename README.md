@@ -1,3 +1,2 @@
-# Honkers tool
-Honkers is a private tool made for me and my friends.
-This was only made to train as im new to python :)
+# Honkers
+Hi! Honkers was made for me to train in python, it may not work on pc due to it being coded inside Termux
