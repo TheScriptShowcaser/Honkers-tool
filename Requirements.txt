@@ -1,4 +1,2 @@
 discord_webhook
-os
-phonenumbers
 colorama
